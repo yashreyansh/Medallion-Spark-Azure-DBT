@@ -1,1 +1,0 @@
-# Medallion-Spark-Azure-DBT
